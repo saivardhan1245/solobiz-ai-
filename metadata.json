@@ -1,0 +1,6 @@
+{
+  "name": "SoloBiz AI",
+  "description": "Open-source, privacy-first financial assistant for freelancers: local receipt OCR, verified expense tracking, invoice generation, and record-grounded business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
